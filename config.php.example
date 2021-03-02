@@ -1,0 +1,10 @@
+<?php  
+class Env{
+    public static $env = [
+        'DB_HOST' => 'localhost',
+        'DB_USERNAME' => '',
+        'DB_PASSWORD' => '',
+        'DB_CHARSET' => 'UTF8',
+        'DB_DATABASE' => ''
+    ];  
+}
